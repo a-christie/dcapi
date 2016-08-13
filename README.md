@@ -3,7 +3,7 @@ Data-centric API
 
 This plugin provides a cached data-centric view of a Wordpress site enabling Wordpress to be used as a content management system (back-end "model") for a separately implemented user interface (front-end "view" and "controller"). The data is exchanged using JSON structures that are cached in server files and served via a PHP-based API to improve front-end performance
 
-Version: V1.2, 2016-08-05
+Version: V1.2, 2016-08-13
 Author: David Christie
 License: GPL3
 
